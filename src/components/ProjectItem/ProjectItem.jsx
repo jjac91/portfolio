@@ -29,12 +29,12 @@ const ProjectItem = ({
           >
             Visit
           </a>
-          <a
+          {/* <a
             className="inline-block bg-blue-500 hover:bg-blue-700 text-white rounded-full w-28 text-sm text-center md:text-xs lg:text-base"
             href={repo}
           >
             Repository
-          </a>
+          </a> */}
         </div>
         <div className="p-2">
           <h5 className="text-white tracking-wider text-center text-sm text-center md:text-xs lg:text-base">

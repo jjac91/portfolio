@@ -53,7 +53,7 @@ const Projects = () => {
             title={project.title}
             key={index}
             description={project.description}
-            repo={project.repo}
+            // repo={project.repo}
             icons={project.icons}
           />
         ))}
