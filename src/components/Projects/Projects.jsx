@@ -1,10 +1,21 @@
 import React from "react";
 import ProjectItem from "../ProjectItem/ProjectItem";
 import UnderservedImg from "../../assets/img/Underserved.png";
-import WsireImg from "../../assets/img/Wsire.png"
-import EEIF from "../../assets/img/EEIF.png"
+import WsireImg from "../../assets/img/Wsire.png";
+import EEIF from "../../assets/img/EEIF.png";
+import WAsire from "../../assets/img/WAsire.png";
 
 const ProjectArr = [
+  {
+    img: WAsire,
+    alt: "Screenshot of Social Impact Reporting Project",
+    url: "https://innovation-underserved.pages.dev/",
+    title: "WA Social Impact Report",
+    repo: "https://github.com/de-data-lab/west-end-social-impact-report",
+    description:
+      "A dashboard created for a local non-profit Wilmington Alliance to track its social impact on its community.",
+    icons: ["react", "css3", "mapbox"],
+  },
   {
     img: UnderservedImg,
     alt: "Screenshot of Recidivism and Gerrymandering Website",
@@ -28,7 +39,7 @@ const ProjectArr = [
   {
     img: EEIF,
     alt: "Screenshot of Delaware Energy Investment Fund Tracker",
-    url: "https://b1f7cd24.dsha-react.pages.dev/",
+    url: "https://delaware-energy.pages.dev/",
     title: "Delaware Energy Investment Fund Tracker",
     repo: "https://github.com/de-data-lab/west-end-social-impact-report",
     description:
