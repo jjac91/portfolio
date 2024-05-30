@@ -13,7 +13,7 @@ const ProjectArr = [
     title: "WA Social Impact Report",
     repo: "https://github.com/de-data-lab/west-end-social-impact-report",
     description:
-      "A dashboard created for a local non-profit Wilmington Alliance to track its social impact on its community.",
+      "A dashboard created for the local non-profit Wilmington Alliance to track its social impact on its community.",
     icons: ["react", "css3", "mapbox"],
   },
   {
@@ -33,7 +33,7 @@ const ProjectArr = [
     title: "WSGT Social Impact Report",
     repo: "https://github.com/de-data-lab/west-end-social-impact-report",
     description:
-      "A dashboard created for a local non-profit West Side Grows Together to track its social impact on its community. Password: Rncdd20!23",
+      "A dashboard created for the local non-profit West Side Grows Together to track its social impact on its community. Password: Rncdd20!23",
     icons: ["react", "css3", "mapbox"],
   },
   {
